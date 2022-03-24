@@ -34,6 +34,7 @@ Please refer to the [Styleguide](https://github.com/ArcticBlueLight/style-guide)
 |<img src="assets/Cyan.svg" height="23" width="23" />                     |Tide      |`#13B4CB`  |`19, 180, 203`   |`188, 83%, 44%`  |`91%, 11%, 0%, 20%` |
 |<img src="assets/Green.svg" height="23" width="23" />                    |Pine      |`#06C9A3`  |`6, 201, 163`    |`168, 94%, 41%`  |`97%, 0%, 19%, 21%` |
 |<img src="assets/Magenta.svg" height="23" width="23" />                  |Jacket    |`#8032D8`  |`128, 50, 216`   |`268, 68%, 52%`  |`41%, 77%, 0%, 15%` |
+|<img src="assets/FgColor.svg" height="23" width="23" />                  |Night     |`#013737`  |`1, 55, 55`      |`180, 96%, 11%`  |`98%, 0%, 0%, 78%`  |
 
 ### 🛥️ Ports
 
